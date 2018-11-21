@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "working with api's to use search functions and leaning how to use both HTML with embedded JS in an ejs file ",
+  "main": "firstRequest.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Reinhart",
+  "license": "ISC"
+}
